@@ -1,0 +1,17 @@
+#main {
+    /* add CSS here */
+}
+.pet {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	
+	 max-width: 150px;
+	 
+	 background:gray;
+      
+  
+
+}
